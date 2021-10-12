@@ -1,0 +1,17 @@
+.center{
+    max-width: 600px;
+    margin: auto;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 3rem;
+    margin-top: 2rem;
+    text-align: justify;
+}
+
+.headcolor{
+    text-decoration: none;
+}
+
+.headcolor:hover{
+    color: #563D7C !important;
+}

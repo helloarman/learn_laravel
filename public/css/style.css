@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size:14px;
+}
+
+.nav-color{
+    background-color: #563D7C !important;
+    padding: 10px;
+}
+
+.txt-color{
+    color: #fff;
+}
+
+.txt-color:hover{
+    color: #f2f2f2;
+    font-weight: 600;
+}
+
+.txt-color:active{
+    color: #f2f2f2;
+}
+
+.btn-color{
+    background-color: #563D7C;
+    color: #fff;
+}
+
